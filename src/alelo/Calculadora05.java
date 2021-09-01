@@ -2,7 +2,7 @@ package alelo;
 
 import java.util.Scanner;
 
-public class Calculadora {
+public class Calculadora05 {
     public static void main (String [] args) {
         Scanner in = new Scanner (System.in);
 
